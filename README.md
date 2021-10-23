@@ -1,5 +1,5 @@
 # COVID-19-Vaccination-Analysis
-This respository contains all the python codes with csv file for Data Analysis of Covid-19 Vaccination from csv file during my 'Data Science with Python' course.
+This respository contains all the python codes with csv file for Data Analysis of Covid-19 Vaccination from csv file during my "Data Science with Python" course.
 
 ## It answers to the following questions:
 1) Total number of people vaccinated in Argentina (Atlease Once).
